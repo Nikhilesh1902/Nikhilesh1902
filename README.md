@@ -1,8 +1,8 @@
 <h1 align="center">Hello World, I am Nikhilesh 🫡</h1>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanskar0901"> 
-  <img src="https://img.shields.io/github/followers/sanskar0901?label=Follow&style=social)[(https://github.com/sanskar0901">
-  <img src="https://shields.io/github/stars/sanskar0901?label=Stars&style=social)[(https://github.com/sanskar0901">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhilesh1902"> 
+  <img src="https://img.shields.io/github/followers/sanskar0901?label=Follow&style=social)[(https://github.com/Nikhilesh1902">
+  <img src="https://shields.io/github/stars/sanskar0901?label=Stars&style=social)[(https://github.com/Nikhilesh1902">
 </p>
 
 - 🔭 I’m currently studying at SRM Institute of Science and Technology.
