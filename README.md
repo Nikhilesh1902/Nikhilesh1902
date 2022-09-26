@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![@thakurnikhilesh_19's Holopin board](https://holopin.io/api/user/board?user=thakurnikhilesh_19)](https://holopin.io/@thakurnikhilesh_19)
 
 **Nikhilesh1902/Nikhilesh1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
     [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/nikhilesh_19.02/?hl=en)  &nbsp; 
     <a href="mailto:thakurnikhilesh1915@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
+[![@thakurnikhilesh_19's Holopin board](https://holopin.io/api/user/board?user=thakurnikhilesh_19)](https://holopin.io/@thakurnikhilesh_19)
